@@ -1,0 +1,13 @@
+body{
+  background-color: aquamarine;
+}
+.well{
+  font-style: oblique;
+font-size: large;
+}
+.alert{
+  margin-left: 40%;
+}
+.img-circle{
+  margin-left: 30%;
+}
